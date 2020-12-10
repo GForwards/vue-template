@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>icon_back to up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="H5_页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Course-PPT_UP" transform="translate(-301.000000, -704.000000)">
+            <g id="icon_back-to-up" transform="translate(301.000000, 704.000000)">
+                <circle id="椭圆形" fill="#FFFFFF" cx="22" cy="22" r="22"></circle>
+                <polyline id="Stroke-3" stroke="#333333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.000000, 18.500000) scale(1, -1) translate(-22.000000, -18.500000) " points="28 16 22 21 16 16"></polyline>
+                <line x1="22" y1="28" x2="22" y2="18" id="Stroke-1" stroke="#333333" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

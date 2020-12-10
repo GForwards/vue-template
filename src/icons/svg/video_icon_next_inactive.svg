@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>icon_back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="H5_页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Course-PPT_No-Next" transform="translate(-353.000000, -318.000000)">
+            <g id="Image" transform="translate(0.000000, 299.000000)">
+                <g id="Tab">
+                    <g id="Course_next" transform="translate(302.000000, 14.000000)">
+                        <g id="icon_back" transform="translate(53.000000, 11.000000) scale(-1, 1) translate(-53.000000, -11.000000) translate(42.000000, 0.000000)">
+                            <g id="Icon_back" fill="#FFFFFF" fill-rule="nonzero" opacity="0">
+                                <rect id="bound" x="0" y="0" width="22" height="22"></rect>
+                            </g>
+                            <polyline id="001" stroke="#CCCCCC" stroke-width="1.5" transform="translate(12.050253, 10.496854) rotate(45.000000) translate(-12.050253, -10.496854) " points="15.5502525 13.9968542 8.55025253 13.9968542 8.55025253 6.99685425"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
