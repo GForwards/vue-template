@@ -1,5 +1,7 @@
 {
-  "name": "hy-h5-others-page",
+  "name": "{{name}}",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "version": "0.1.0",
   "private": true,
   "scripts": {
